@@ -14,6 +14,8 @@
 
 <img src="/Instructions/Images/GitLab/3_Success.png" alt="Screen shot showing successful completion of fork" width="50%"/>
 
+To view the official GitLab documentation for forking a repository, click [here](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#fork)
+
 # Clone a local copy of the repository
 
 1. Click on the large blue "Clone" button on the right hand side of the project page, and copy the text provided in the "Clone with HTTPS" section
@@ -34,5 +36,7 @@
 7. If you navigate into this folder in Git Bash, it should recognise it as a Git repository. You can use the `git remote -v` command (v stands for "verbose") to see that the remote is configured to your GitLab page for the project.
 
 <img src="/Instructions/Images/GitLab/7_CheckRemote.png" alt="Screen shot showing how to check the remote configured for the repository" width="50%"/>
+
+To view the official GitLab documentation for cloning a repository, click [here](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html#clone-a-repository)
 
 # You're now ready for the live coding practical session!

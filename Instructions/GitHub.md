@@ -21,6 +21,8 @@
 
 <img src="/Instructions/Images/GitHub/5_ImportFinished.png" alt="Screen shot showing successful completion of fork" width="50%"/>
 
+To view the official GitHub documentation for importing a repository, click [here](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/importing-a-repository-with-github-importer)
+
 # Clone a local copy of the repository
 
 1. Click on the dropdown arrow on the big green "Code" button and copy the clone link it gives you. Make sure that "HTTPS" is selected, and the link you're copying starts with "https://" (this should be the default).
@@ -41,5 +43,7 @@
 7. If you navigate into this folder in Git Bash, it should recognise it as a Git repository. You can use the `git remote -v` command (v stands for "verbose") to see that the remote is configured to your GitHub page for the project.
 
 <img src="/Instructions/Images/GitHub/9_CheckRemote.png" alt="Screen shot showing how to check the remote configured for the repository" width="50%"/>
+
+To view the official GitHub documentation for cloning a repository, click [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
 
 # You're now ready for the live coding practical session!
