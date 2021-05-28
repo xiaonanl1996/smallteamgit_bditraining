@@ -21,7 +21,7 @@
 <img src="/Instructions/Images/GitLab/4_CloneLink.png" alt="Screen shot showing the https clone link" width="50%"/>
 
 2. Open a Git Bash terminal in the directory where you would like to make your local copy of the repo.
-3. Enter the command `git clone ` and paste the https link you copied in Step 1.
+3. Enter the command `git clone ` and paste the https link you copied in Step 1. (In MinTTY, the default terminal, the keyboard shortcut to paste is Shift + Insert)
 
 <img src="/Instructions/Images/GitLab/5_CloneCommand.png" alt="Screen shot showing the Git clone command in Git Bash" width="50%"/>
 
