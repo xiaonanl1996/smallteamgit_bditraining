@@ -4,7 +4,7 @@
 
 [Translational Epidemiology Unit](https://www.bdi.ox.ac.uk/research/translational-epidemiology-unit/), [NDPH](https://www.ndph.ox.ac.uk/)/[BDI](https://www.bdi.ox.ac.uk/)
 
-15th June 2021
+11-12am (BST) 15th June 2021
 
 ## Introduction
 
@@ -42,7 +42,10 @@ Individuals who are familiar with Git and want to start using it collaboratively
 If you wish to participate in the practical then a second screen may be helpful, but not necessary.
 
 ## Pre-course work:
-Please install Git and VS Code, make an account on a hosted Git service and fork a copy of our [demonstration repository]() (instructions will be provided).
+Please install Git and VS Code, make an account on a hosted Git service and fork/import your own copy of our [demonstration repository](https://gitlab.com/jenniferc-teu/smallteamgit_bditraining).
+
+* [Instructions for GitLab](https://gitlab.com/jenniferc-teu/smallteamgit_bditraining/-/blob/master/Instructions/GitLab.md)
+* [Instructions for GitHub](https://gitlab.com/jenniferc-teu/smallteamgit_bditraining/-/blob/master/Instructions/GitHub.md)
 
 The demo will be conducted in GitLab but if you have a strong preference for GitHub you should be able to follow along.
 
@@ -52,7 +55,7 @@ If you have any difficulties with making your account or forking the demo repo, 
 Presentation followed by live coding.
 
 ## Software required:
-Git, Visual Studio (VS) Code
+[Git](https://git-scm.com/), [Visual Studio (VS) Code](https://code.visualstudio.com/)
 
 ## Operating System:
 We will be using Windows (so will be better able to help with that) but participants can use iOS and Linux 
